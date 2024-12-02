@@ -1,0 +1,22 @@
+.unity-tab__header {
+    background-color: rgba(0, 0, 0, 0);
+    background-image: none;
+    width: auto;
+    height: 120px;
+    -unity-text-align: middle-center;
+    align-self: center;
+    align-content: auto;
+    translate: 3px 0;
+    color: rgb(255, 255, 255);
+    -unity-font-definition: url("project://database/Assets/_Project/Content/Font/Rajdhani/Rajdhani-Bold.ttf?fileID=12800000&guid=2219332e3a68fb2488fc8e2af3cf2aa4&type=3#Rajdhani-Bold");
+    font-size: 56px;
+    padding-left: 45px;
+    flex-direction: column;
+    justify-content: center;
+    transition-property: all;
+    transition-duration: 0s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    -unity-background-scale-mode: stretch-to-fill;
+    padding-right: 55px;
+}
